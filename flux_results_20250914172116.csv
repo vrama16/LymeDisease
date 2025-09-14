@@ -1,0 +1,10 @@
+MouseID,Uterus total volume,Uterus cyst total volume,Cysts/Uterus Percent Volume,ParaAo LN,Flux,Group
+1X,118700.0,14270.0,12.02,4.04,41,Uninfected
+1R,148300.0,23830.0,16.07,4.94,13,Uninfected
+1L,82470.0,6604.0,8.01,2.06,9,Uninfected
+1RL,116100.0,35840.0,30.87,2.93,9,Uninfected
+2X,122.2,23.25,19.03,8.48,252,Infected
+2R,159.4,40.33,25.3,12.83,9,Infected
+2L,139.4,24.91,17.87,8.86,4,Infected
+2RR,193.9,64.75,33.39,8.0,4,Infected
+2RL,226.0,67.43,29.84,13.93,3,Infected
